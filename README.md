@@ -15,7 +15,7 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 * **[Kmeans clustering for depression patients]()** : 우울증 환자의 인구 통계적, 경제적, 심리적 요인 분석 및 개선안 도출
 * **[Surface-Scale-defects - Scale 불량 원인 분석 및 개선안 도출]()** : Plate 규격 및 공정 조건 데이터를 활용한 Scale 불량 요인 분석 및 개선안 도출
 * **[Boston-Housing-Prices]()** : 탐색적 분석  
-* **[Titanic-dataset]()** : 탐색적 분석
+* **[Titanic-dataset]()** : 탐색적 분석  
 
 
 If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, shoot an email at kimgy531@gmail.com.
