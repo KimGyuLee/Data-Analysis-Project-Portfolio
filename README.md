@@ -1,6 +1,6 @@
 Data-Analysis-Project-Portfolio
 ------------------------------------
-Repository containing portfolio of data science projects completed by me for academic, self learning, and hobby purposes. 
+Repository containing portfolio of data science projects completed by me for academic and self learning purposes. 
 Presented in the form of iPython Notebooks.
 
 _Note: Data used in the projects (accessed under data directory) is for demonstration purposes only._
@@ -16,3 +16,7 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 * **[Surface-Scale-defects - Scale 불량 원인 분석 및 개선안 도출]()** : Plate 규격 및 공정 조건 데이터를 활용한 Scale 불량 요인 분석 및 개선안 도출
 * **[Boston-Housing-Prices]()** : 탐색적 분석  
 * **[Titanic-dataset]()** : 탐색적 분석
+
+
+If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, shoot an email at kimgy531@gmail.com.
+
