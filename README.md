@@ -12,7 +12,7 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 * **[Predicting lifetime members]()** : 회원 정보 데이터를 활용한 평생회원 예측 모델링
 * **[Predicting customer cancellation]()** : 렌탈 사업 고객 데이터를 활용한 해약 여부 예측 모델링
 * **[Predicting faults]()** : 공정 데이터를 활용한 불량 예측 모델링
-* **[Kmeans clustering for depression patients]()** : 우울증 환자의 인구 통계적, 경제적, 심리적 요인 분석 및 개선안 도출
+* **[Kmeans clustering for depression patients](https://github.com/KimGyuLee/Data-Analysis-Project-Portfolio/tree/master/Kmeans-clustering-for-depression-patients)** : 우울증 환자의 인구 통계적, 경제적, 심리적 요인 분석 및 개선안 도출
 * **[Surface-Scale-defects - Scale 불량 원인 분석 및 개선안 도출]()** : Plate 규격 및 공정 조건 데이터를 활용한 Scale 불량 요인 분석 및 개선안 도출
 * **[Boston-Housing-Prices]()** : 탐색적 분석  
 * **[Titanic-dataset]()** : 탐색적 분석  
