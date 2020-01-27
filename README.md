@@ -18,5 +18,5 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 * **[Titanic-dataset]()** : 탐색적 분석  
 
 
-If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, shoot an email at kimgy531@gmail.com.
+
 
