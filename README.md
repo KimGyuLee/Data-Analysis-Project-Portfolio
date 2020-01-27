@@ -19,7 +19,7 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
   
 * **[Kmeans clustering for depression patients - 우울증 환자의 집단 특성 분석 및 및 개선안 도출](https://github.com/KimGyuLee/Data-Analysis-Project-Portfolio/tree/master/Kmeans-clustering-for-depression-patients)**  
   
-* **[Surface-Scale-defects - Scale 불량 원인 분석 및 개선안 도출]()**    
+* **[Surface-Scale-defects - Scale 불량 원인 분석 및 개선안 도출](https://github.com/KimGyuLee/Data-Analysis-Project-Portfolio/tree/master/Surface-Scale-Defects)**    
   
 * **[Boston-Housing-Prices]()**  
 
