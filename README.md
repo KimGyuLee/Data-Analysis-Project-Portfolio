@@ -16,6 +16,7 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 * **[Surface-Scale-defects - Scale 불량 원인 분석 및 개선안 도출]()** : Plate 규격 및 공정 조건 데이터를 활용한 Scale 불량 요인 분석 및 개선안 도출
 * **[Boston-Housing-Prices]()** : 탐색적 분석  
 * **[Titanic-dataset]()** : 탐색적 분석  
+* **[Pima-Indians-Diabetes]()** : Pima 인디언 당뇨병 예측 모델링
 
 
 
