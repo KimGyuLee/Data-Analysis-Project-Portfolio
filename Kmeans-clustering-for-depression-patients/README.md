@@ -16,7 +16,7 @@ Notebooks and Analysis
 -------------------------------
 The project includes the following notebook (data manipulation and analysis):  
 
-* #### [Data Preprocessing & Analysis](https://nbviewer.jupyter.org/gist/KimGyuLee/30aca84f405bb5ddc81a522b6fda84df)
+* #### [Data Preprocessing & Analysis](https://nbviewer.jupyter.org/gist/KimGyuLee/853ea75170e5f073226d82fe821257bd)
 
 
 Tech
