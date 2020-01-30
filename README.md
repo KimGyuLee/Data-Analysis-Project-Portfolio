@@ -9,7 +9,7 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 
 * **[Predicting diseases using machine learning - 중증질환 위험도 예측 모델 개발 및 개선안 도출](https://github.com/KimGyuLee/Health-Care-Big-Data-Project)**  
   
-* **[Commerce-dataset]()**  
+* **[Web-Server-data]()**  
 
 * **[Predicting lifetime members - 회원 정보 데이터를 활용한 평생회원 예측 모델링]()**  
 
@@ -20,13 +20,6 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 * **[Kmeans clustering for depression patients - 우울증 환자의 집단 특성 분석 및 및 개선안 도출](https://github.com/KimGyuLee/Data-Analysis-Project-Portfolio/tree/master/Kmeans-clustering-for-depression-patients)**  
   
 * **[Surface-Scale-defects - Scale 불량 원인 분석 및 개선안 도출](https://github.com/KimGyuLee/Data-Analysis-Project-Portfolio/tree/master/Surface-Scale-Defects)**    
-  
-* **[Boston-Housing-Prices]()**  
-
-* **[Titanic-dataset]()**  
-
-* **[Pima-Indians-Diabetes - Pima 인디언 당뇨병 예측 모델링](https://github.com/KimGyuLee/Data-Analysis-Project-Portfolio/tree/master/Pima-Indians-Diabetes)**  
-
 
 
 
