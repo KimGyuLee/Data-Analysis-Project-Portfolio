@@ -13,7 +13,7 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 
 * **[Web crawling and Text analysis - 잡플래닛 기업 리뷰 웹크롤링 및 텍스트 분석](https://github.com/KimGyuLee/Web-crawling-and-Text-analysis)**
   
-* **[Predicting lifetime members - 회원 정보 데이터를 활용한 평생회원 예측 모델링](https://github.com/KimGyuLee/Data-Analysis-Project-Portfolio/tree/master/Predicting%20lifetime%20members)**  
+* **[Predicting lifetime members - 회원 정보 데이터를 활용한 평생회원 예측 모델링](https://github.com/KimGyuLee/Data-Analysis-Project-Portfolio/tree/master/Predicting%20lifetime%20members)**   
 
 * **[Predicting customer cancellation - 렌탈 사업 고객 데이터를 활용한 해약 여부 예측 모델링]()**  
 
